@@ -9,7 +9,7 @@ body{
 main{
     position: relative;
     width: 40%;
-    margin: 10% auto;
+    margin: 15% auto;
     background: hsl(217, 19%, 24%);
     border-radius: 10px;
     text-align: center;
@@ -17,7 +17,7 @@ main{
     font-family: 'Manrope', sans-serif;
     color: hsl(193, 38%, 86%);
     font-weight: 800;
-    font-size: 28px;
+    font-size: 22px;
 }
 h1{
     letter-spacing: 2px;
