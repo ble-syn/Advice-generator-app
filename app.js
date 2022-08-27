@@ -9,7 +9,7 @@ getAdvice()
 async function getAdvice() {
     const fetchData = await fetch(url)
     const data = await fetchData.json();
-    console.log(data.slip.advice)
+
     adviceId.innerHTML = data.slip.id
     adviceText.innerHTML = data.slip.advice
 }
