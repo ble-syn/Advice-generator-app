@@ -27,7 +27,9 @@ Users should be able to:
 
 ### Screenshot
 
+<img width="1440" alt="Screenshot 2022-08-27 at 11 26 52 AM" src="https://user-images.githubusercontent.com/68845318/187026344-d4702901-3ef6-4bb4-951c-ade4446a04a1.png">
 
+<img width="348" alt="Screenshot 2022-08-27 at 11 27 25 AM" src="https://user-images.githubusercontent.com/68845318/187026349-9870dea0-eca7-43b9-babd-634f57f51372.png">
 
 
 
